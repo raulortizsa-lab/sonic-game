@@ -1,0 +1,2314 @@
+fileFormatVersion: 2
+guid: 1f448aaac3108e94db3940b4af6d78bf
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 639
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50820f66f5cff24459f67acb68f70033
+      internalID: -689253007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 639
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16796394fb363834490af16b77740870
+      internalID: 687764561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 639
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599716d5415e01e409ff38396ee9dcee
+      internalID: -970499461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 639
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fff1834ec0965844a7ef88cbc7c1762
+      internalID: -2085364988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 635
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d06caacb9b703940965aef47fdad3de
+      internalID: -449562736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 635
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736d9f8f634e3b0408808479de7f1e76
+      internalID: -1057379864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 635
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec6be5e3461dc549a71ea5a7b6b665e
+      internalID: 2140379779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 599
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d55cfdef2469f24f860e82f7732b31f
+      internalID: 423787042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 599
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3efbb221d8dd94b951e91dca2e7582
+      internalID: 982078169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 599
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b306397a655ab874882e8033f08842b4
+      internalID: 887074806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 599
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72736cb413b53e143850fb0bd98aff21
+      internalID: -1179817136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 578
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2742777c8a73a40842a909d3a8833d
+      internalID: 1456819692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 579
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e5804a2c723c346817589714677e95
+      internalID: 1930632820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 580
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a116a88a1af22c48bb8e5c803126a65
+      internalID: 647603208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 541
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8b5037b31095f4694379780ff40558
+      internalID: 2140007879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 541
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910729f3ca1dff54e94230e6d967f48b
+      internalID: -883617838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 505
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e076cfea40a6450428df56a19e775cec
+      internalID: 788129281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 505
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0f9dc8df8c76c4286fd5af4b1eed86
+      internalID: -2039843379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 505
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104a3ae48f8aa054789454e4692193e0
+      internalID: -1608676632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 505
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcf30039644c6946af8f6b8893f9fec
+      internalID: -1862994434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 504
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6ca0d61945758408f2785b929c7121
+      internalID: -305790309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 504
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518449b24f01d2f45ad24331bb9ee169
+      internalID: -2817393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 504
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c922eba9721db4cbb00e5a16946217
+      internalID: -1916226953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 504
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3ca1419a026ce458cde0d58600b6f7
+      internalID: -234733147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 488
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ecb280379af114abeac7a6dbf68b65
+      internalID: -1598475376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 445
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f4d3e4f45838d4282555e2644dccf0
+      internalID: -2046471413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 444
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d59ded28fc5b6541bbd268f16033e86
+      internalID: 275700331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 444
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d70542107464341bbdd4bcc9bc0981
+      internalID: 2092956827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 444
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b5047cf5e6c774ba1bce9e235a662c
+      internalID: 2029701407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 380
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbefa3d1258b75647905e0007585cc38
+      internalID: 160722917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 423
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa14494318944b4c9cfd1681422a5d3
+      internalID: -978732561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 423
+        width: 54
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2575c332e5c371642a02510b2a71794d
+      internalID: -2135392724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 379
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032b96c0ebb8c2e4ea2e479d4dae6c0e
+      internalID: -1556376532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_35
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 379
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4534bca8589d5d4c865ea23395bc4c2
+      internalID: -1821268651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_36
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 350
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805407391e141cc4dac6856f97b185b3
+      internalID: -608280191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 350
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e29bb688529c9345abbfbf453027385
+      internalID: 1385113894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 350
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8aff4ef2ad54df49a8f2cb1770d1b65
+      internalID: -192934119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 351
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc8cc1df8dd3e549befa69dabe675ad
+      internalID: 1037375737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 351
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8738a3bc78d90594f8cc2a6fe69a4052
+      internalID: -207566846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 351
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7291dc8bf3ea834f819afcdeafb0082
+      internalID: -1088912225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_42
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 315
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea761b4b01dad948b43b6353245a6f2
+      internalID: 1026042437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 315
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a81144d270de04e8b3fe504a765598
+      internalID: 8014917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 315
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e2c3436a1a4d64f9dc2eb4013e1b50
+      internalID: 648556579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_45
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 315
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8547e43be6c53143a330cd1e1bacd17
+      internalID: -887640363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_46
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 263
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ef84c2363d51c46af82ddcae0e99b4
+      internalID: 1237457851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_47
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 263
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a0d27dd7be46446b7abec3ec99a050
+      internalID: -1087434060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_48
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 263
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7ce92072fe0e944a81cbf118da5c97
+      internalID: -581805529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_49
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 263
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8fa24a008a57a4ea1291de2c0e4b39
+      internalID: -386041233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_50
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 257
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e1bcdf5c8b3ae49993dc0def25971b
+      internalID: -244872014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_51
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 257
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b090af00055c341af72f675778bcbe
+      internalID: 1566772592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_52
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 257
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2646b5cbbef8dbd43996d7343d772039
+      internalID: -604508763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_53
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 257
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ef413fb55fdfa478193a77efcd8c34
+      internalID: 2087098936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_54
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 219
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408294936a9286347884075dc76f6a3a
+      internalID: 507049717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_55
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 219
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d08078eef26474cb48109e64673a25
+      internalID: 1982482524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_56
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 219
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6ffebd88d3b6b4ba2e3e959c43da4c
+      internalID: -750738137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_57
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 215
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdc9babcaafffd48865191d2ecd5c39
+      internalID: -1829847062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_58
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 215
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ddff5efdbdb6c4e85cea8b7f6c42e0
+      internalID: -588846898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_59
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 215
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfabe9debf4f2044a1bc7ebf086bfa5
+      internalID: -926269877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_60
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 168
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b63c67c9b300e54c8e057149efb3e54
+      internalID: -1257281285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_61
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 168
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a6e873505bdcf4e8cde96ac1f3f4e6
+      internalID: 829235195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_62
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 168
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a71d8ad6e70de4aaff83da3d9501ea
+      internalID: 735454915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_63
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 168
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258b8a0d407b3874593982bf4714c34f
+      internalID: 1685787411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_64
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 171
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77325b32f4291534eb5814204b14beb0
+      internalID: -1328428426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_65
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 171
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f010e42af8930bc4691aaedebd0141f8
+      internalID: 877997465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_66
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 171
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493664d90c2214d45a2ba82a125819ea
+      internalID: 1341474876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_67
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 171
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e870011a41ff8494792b054397c41615
+      internalID: -1458989136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_68
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 139
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec75ca50a84c0dc4a8a98bd1146b7c4f
+      internalID: -1019736881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_69
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 149
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df3991b178494b46b2755cff6a84716
+      internalID: 676443898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_70
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 139
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a605dbb8cb00f24094448daaeaec8d8
+      internalID: 1405774860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_71
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 139
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e043d4ce6550424887b77e00cdc6d25
+      internalID: -1330969909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_72
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 139
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3117de4ff9b1d43abc55675163b937
+      internalID: 1089751294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_73
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 114
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7ed581927a16c47a3e74882546d4c8
+      internalID: -301933391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_74
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 114
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae11fa800ad8abb48aaf48572d480210
+      internalID: -1754356328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_75
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 114
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6915272250aa5d24bbb808d12d6246f1
+      internalID: 1753743174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_76
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 114
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c479900f0f86064b9f2d4eb5946f48e
+      internalID: -1377703977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_77
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 114
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf1cc59615993440921c13cdc9addf2
+      internalID: -1715816898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_78
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 70
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d29a9ea05fac547a6328061516c87f
+      internalID: -630220822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_79
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 70
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305bdf8c607104e4c8c27305e6831523
+      internalID: -789086653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_80
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 70
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3749ff50e3716b468f80ae8a19870f4
+      internalID: 422404082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_81
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 70
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0347df74759b0b14991ece0dc17f8758
+      internalID: 453827430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_82
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 84
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efd210a0c09d9d49aed2cef3b562793
+      internalID: 74412486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_83
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a1bef6c94fc5f4da07bf85a694cfc0
+      internalID: -222482830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_84
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 70
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0bd9b538edfd14cb6e0ded023dc80b
+      internalID: 931103310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_85
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 70
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462c39052a58d7e41a013c3d03c96dde
+      internalID: -911797085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_86
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 70
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195e3d8d97f791a498863360ee7e478b
+      internalID: -748153513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_87
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 70
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f987e321d22252439516d3d45eae318
+      internalID: -407814904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_88
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 70
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be039753804e7c94787bb3bf8976ceef
+      internalID: 696482452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_89
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 70
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7914e2f36106a4aa49887acc013c1f
+      internalID: 1468424891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_90
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 25
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030737c59ce35e544af276df1a508a7e
+      internalID: -1028917140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_91
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 25
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b333d9c9d899b4e93c75d2ca86d7f9
+      internalID: 1292028960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_92
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 25
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1d7cc7b6a9c284abce108de1833166
+      internalID: 913232144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_93
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 25
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4606b1cd4f056074ebd04704bf6bb586
+      internalID: -614103619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_94
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 25
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fd5dd806276b3448da5d7a01259977
+      internalID: -1382398089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_95
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 25
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60188e03fd1a96e4795c4581b85a5fb5
+      internalID: -573985463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_96
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 21
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11deaf266dffca444b537fbcf4e56613
+      internalID: 779863856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_97
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 21
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db35cee02bdb00549b53ad9f82b46ad8
+      internalID: 1806468278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_98
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 21
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f73b3cf192aa264eb16b4baa09d2a7f
+      internalID: 1736148007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_99
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 21
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef2f6e041f4b504f86a9779e28eedb9
+      internalID: 2106340983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 641
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ceccd7155136e54292252a91a4d0b48
+      internalID: 1923917417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enenimigos_Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 639
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fac9bbb836a463488cabf82085fcb5b
+      internalID: -2142261634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Enenimigos_Sprites_0: -689253007
+      Enenimigos_Sprites_1: 687764561
+      Enenimigos_Sprites_10: 982078169
+      Enenimigos_Sprites_11: 887074806
+      Enenimigos_Sprites_12: -1179817136
+      Enenimigos_Sprites_13: 1456819692
+      Enenimigos_Sprites_14: 1930632820
+      Enenimigos_Sprites_15: 647603208
+      Enenimigos_Sprites_16: 2140007879
+      Enenimigos_Sprites_17: -883617838
+      Enenimigos_Sprites_18: 788129281
+      Enenimigos_Sprites_19: -2039843379
+      Enenimigos_Sprites_2: -970499461
+      Enenimigos_Sprites_20: -1608676632
+      Enenimigos_Sprites_21: -1862994434
+      Enenimigos_Sprites_22: -305790309
+      Enenimigos_Sprites_23: -2817393
+      Enenimigos_Sprites_24: -1916226953
+      Enenimigos_Sprites_25: -234733147
+      Enenimigos_Sprites_26: -1598475376
+      Enenimigos_Sprites_27: -2046471413
+      Enenimigos_Sprites_28: 275700331
+      Enenimigos_Sprites_29: 2092956827
+      Enenimigos_Sprites_3: 1923917417
+      Enenimigos_Sprites_30: 2029701407
+      Enenimigos_Sprites_31: 160722917
+      Enenimigos_Sprites_32: -978732561
+      Enenimigos_Sprites_33: -2135392724
+      Enenimigos_Sprites_34: -1556376532
+      Enenimigos_Sprites_35: -1821268651
+      Enenimigos_Sprites_36: -608280191
+      Enenimigos_Sprites_37: 1385113894
+      Enenimigos_Sprites_38: -192934119
+      Enenimigos_Sprites_39: 1037375737
+      Enenimigos_Sprites_4: -2085364988
+      Enenimigos_Sprites_40: -207566846
+      Enenimigos_Sprites_41: -1088912225
+      Enenimigos_Sprites_42: 1026042437
+      Enenimigos_Sprites_43: 8014917
+      Enenimigos_Sprites_44: 648556579
+      Enenimigos_Sprites_45: -887640363
+      Enenimigos_Sprites_46: 1237457851
+      Enenimigos_Sprites_47: -1087434060
+      Enenimigos_Sprites_48: -581805529
+      Enenimigos_Sprites_49: -386041233
+      Enenimigos_Sprites_5: -2142261634
+      Enenimigos_Sprites_50: -244872014
+      Enenimigos_Sprites_51: 1566772592
+      Enenimigos_Sprites_52: -604508763
+      Enenimigos_Sprites_53: 2087098936
+      Enenimigos_Sprites_54: 507049717
+      Enenimigos_Sprites_55: 1982482524
+      Enenimigos_Sprites_56: -750738137
+      Enenimigos_Sprites_57: -1829847062
+      Enenimigos_Sprites_58: -588846898
+      Enenimigos_Sprites_59: -926269877
+      Enenimigos_Sprites_6: -449562736
+      Enenimigos_Sprites_60: -1257281285
+      Enenimigos_Sprites_61: 829235195
+      Enenimigos_Sprites_62: 735454915
+      Enenimigos_Sprites_63: 1685787411
+      Enenimigos_Sprites_64: -1328428426
+      Enenimigos_Sprites_65: 877997465
+      Enenimigos_Sprites_66: 1341474876
+      Enenimigos_Sprites_67: -1458989136
+      Enenimigos_Sprites_68: -1019736881
+      Enenimigos_Sprites_69: 676443898
+      Enenimigos_Sprites_7: -1057379864
+      Enenimigos_Sprites_70: 1405774860
+      Enenimigos_Sprites_71: -1330969909
+      Enenimigos_Sprites_72: 1089751294
+      Enenimigos_Sprites_73: -301933391
+      Enenimigos_Sprites_74: -1754356328
+      Enenimigos_Sprites_75: 1753743174
+      Enenimigos_Sprites_76: -1377703977
+      Enenimigos_Sprites_77: -1715816898
+      Enenimigos_Sprites_78: -630220822
+      Enenimigos_Sprites_79: -789086653
+      Enenimigos_Sprites_8: 2140379779
+      Enenimigos_Sprites_80: 422404082
+      Enenimigos_Sprites_81: 453827430
+      Enenimigos_Sprites_82: 74412486
+      Enenimigos_Sprites_83: -222482830
+      Enenimigos_Sprites_84: 931103310
+      Enenimigos_Sprites_85: -911797085
+      Enenimigos_Sprites_86: -748153513
+      Enenimigos_Sprites_87: -407814904
+      Enenimigos_Sprites_88: 696482452
+      Enenimigos_Sprites_89: 1468424891
+      Enenimigos_Sprites_9: 423787042
+      Enenimigos_Sprites_90: -1028917140
+      Enenimigos_Sprites_91: 1292028960
+      Enenimigos_Sprites_92: 913232144
+      Enenimigos_Sprites_93: -614103619
+      Enenimigos_Sprites_94: -1382398089
+      Enenimigos_Sprites_95: -573985463
+      Enenimigos_Sprites_96: 779863856
+      Enenimigos_Sprites_97: 1806468278
+      Enenimigos_Sprites_98: 1736148007
+      Enenimigos_Sprites_99: 2106340983
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

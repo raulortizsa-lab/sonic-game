@@ -1,0 +1,1390 @@
+fileFormatVersion: 2
+guid: b47effb4196247544a074f9424ba7347
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dante_trampolin_0
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 3128
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ba4defb536f6f439430c9e5fbb0027
+      internalID: 821389017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_1
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 3128
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0885a44b63da1a840bf9447d6448bede
+      internalID: -856713616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_2
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 3128
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5976c20c0073d949a184f5d22171222
+      internalID: -1343208895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_3
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 3128
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe93607c4da0c643b676df5ea6e9836
+      internalID: -1086119131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_4
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 3128
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afc63bbcbd1832429afe3fa8db89d82
+      internalID: 1156295498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_5
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 3128
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2723a950b94b14a9b2460de09a44ae
+      internalID: -57471296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_6
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2792
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a20235e49963947a67b10f0df7a874
+      internalID: 48935146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_7
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 2792
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28270bc3005461a40a67a4aa50aa976b
+      internalID: 2099480783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_8
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 2792
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a552c89ebc88aad429d901c832c43039
+      internalID: 1384701192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_9
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 2792
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9ea86c7945d7342b32cbd814d60a3f
+      internalID: -1089773033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_10
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 2792
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9250989fced8a4c8b3f682824858e1
+      internalID: -1214555710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_11
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 2792
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daca59f61999a894fa6102f39211cea1
+      internalID: -1334260030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_12
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 2456
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd78a9678b5934e49a6079dc26723198
+      internalID: 1786583020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_13
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 2456
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05393de740f3a448b3af6cf80e76911
+      internalID: 55268568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_14
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 2456
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c0ed1a98346ba47867a25183f4a277
+      internalID: -137803092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_15
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 2456
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c161ee7c39b96942a3011daa563f388
+      internalID: -1207634639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_16
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 2456
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8564cf56f533945bfb000f60a35d87
+      internalID: -483927464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_17
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2120
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a57faf1520c4454c99ad517dfcf2867
+      internalID: -455795473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_18
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 2120
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eaec68684fcf7646b336dc5ca184363
+      internalID: -1990114005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_19
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 2120
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18af3e24ebfcf3b4dabdcf93be098f4d
+      internalID: -1132281319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_20
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 2120
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12aad19d5d0b6f41859a67a7acb24f9
+      internalID: 654386977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_21
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 2120
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afd9a0fa269c0a419476a03f4809521
+      internalID: -912709308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_22
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1784
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520828e6159802344bc295d2d5ea6b92
+      internalID: -1969855575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_23
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1784
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5250e14ca4a6e8340af08700094ede31
+      internalID: 1194620115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_24
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1784
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc43d9d276adab479e9a3a09d5ab580
+      internalID: -825977006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_25
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1784
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1142674d430d3541ae6d7be77e64930
+      internalID: 50419937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_26
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 1784
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb35d93c17d5e73408ca82edc3e09a02
+      internalID: 1120075822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_27
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 1784
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44d832fab96e064fbdc3305ed2cec28
+      internalID: -1527079882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_28
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1448
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8206b124e15f8345856ef3a39e67d38
+      internalID: -1017060747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_29
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1448
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3027b963cd7ac704e99191c325f78a38
+      internalID: -1233827201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_30
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1448
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50860239f33753544af5738209a076c6
+      internalID: -2100452662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_31
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1448
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef05f4f03b93f8d4ca31b610c718a983
+      internalID: 1597714597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_32
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 1448
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468ecaaaa14442b48a7903b0b33db4e7
+      internalID: 1257036477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_33
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 1448
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acd11defd730a8458e3a4129d588528
+      internalID: -1530867132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_34
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1112
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0055540c230134db10704c2f96d453
+      internalID: 921333697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_35
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1112
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1f8c5feeb5be546bc08720471f2047
+      internalID: 828127029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_36
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1112
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a805b14069ab34d97c407073524a31
+      internalID: -984572233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_37
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1112
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799f3303573df3d4f84884ef567a0133
+      internalID: 883847504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_38
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 1112
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ac5e46dad9de242be0853a91f7f09e
+      internalID: 1633612480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_39
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 1112
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8965cc5530637c49aafedf1bd09581f
+      internalID: -236604966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_40
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 776
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7aacd5bea7bff40afe71bd9d6a3bef
+      internalID: -2139084592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_41
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 776
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e4b0a7a08b43b489a9ceb380db6915
+      internalID: 406866553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_42
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 776
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd811dbe64783e479844d9176ec0e0e
+      internalID: -517347170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_43
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 776
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b4d4ff7637a6341ab43044754af19c
+      internalID: 1564192041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_44
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 776
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb21ae574a569934c93a4dc502f72771
+      internalID: -1150600796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_45
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 776
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb5138bb50dffb42ae20d3911ebc99c
+      internalID: -707057398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_46
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 440
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0324878ee2192409bfc56d67c7896d
+      internalID: -940591657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_47
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 440
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0d90d023c82b84d94a488a75d63dca
+      internalID: -368542377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_48
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 440
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd291992eeb8067488b34d2ead14091e
+      internalID: 1306374128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_49
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 440
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70cca86486994154ab27f3deb815189c
+      internalID: -320756158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_50
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 440
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4468386711cdfd24cbcd4a66dfa8b2b2
+      internalID: -431940348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_51
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 440
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdcb878fc4290e499a0e3ea5ea40ecc
+      internalID: 2071219861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_52
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 104
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fb9d2bcb8a1d240981a228f2898610
+      internalID: -1201129209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_53
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 104
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5f0a884ae71f2498746a163ad7167b
+      internalID: -1156562210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_54
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 104
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5167456e8f982a6418610b512b5b0aa7
+      internalID: 1996985590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_55
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 104
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d377bcc63dd54b48851a9bfb6ce11d5
+      internalID: 2063378629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_56
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 104
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37250bc77705b64e954da7dd53d60d4
+      internalID: 1702417402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dante_trampolin_57
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 104
+        width: 266
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746d64f92e9772b47a08f1b11e049e90
+      internalID: 2014290043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      dante_trampolin_0: 821389017
+      dante_trampolin_1: -856713616
+      dante_trampolin_10: -1214555710
+      dante_trampolin_11: -1334260030
+      dante_trampolin_12: 1786583020
+      dante_trampolin_13: 55268568
+      dante_trampolin_14: -137803092
+      dante_trampolin_15: -1207634639
+      dante_trampolin_16: -483927464
+      dante_trampolin_17: -455795473
+      dante_trampolin_18: -1990114005
+      dante_trampolin_19: -1132281319
+      dante_trampolin_2: -1343208895
+      dante_trampolin_20: 654386977
+      dante_trampolin_21: -912709308
+      dante_trampolin_22: -1969855575
+      dante_trampolin_23: 1194620115
+      dante_trampolin_24: -825977006
+      dante_trampolin_25: 50419937
+      dante_trampolin_26: 1120075822
+      dante_trampolin_27: -1527079882
+      dante_trampolin_28: -1017060747
+      dante_trampolin_29: -1233827201
+      dante_trampolin_3: -1086119131
+      dante_trampolin_30: -2100452662
+      dante_trampolin_31: 1597714597
+      dante_trampolin_32: 1257036477
+      dante_trampolin_33: -1530867132
+      dante_trampolin_34: 921333697
+      dante_trampolin_35: 828127029
+      dante_trampolin_36: -984572233
+      dante_trampolin_37: 883847504
+      dante_trampolin_38: 1633612480
+      dante_trampolin_39: -236604966
+      dante_trampolin_4: 1156295498
+      dante_trampolin_40: -2139084592
+      dante_trampolin_41: 406866553
+      dante_trampolin_42: -517347170
+      dante_trampolin_43: 1564192041
+      dante_trampolin_44: -1150600796
+      dante_trampolin_45: -707057398
+      dante_trampolin_46: -940591657
+      dante_trampolin_47: -368542377
+      dante_trampolin_48: 1306374128
+      dante_trampolin_49: -320756158
+      dante_trampolin_5: -57471296
+      dante_trampolin_50: -431940348
+      dante_trampolin_51: 2071219861
+      dante_trampolin_52: -1201129209
+      dante_trampolin_53: -1156562210
+      dante_trampolin_54: 1996985590
+      dante_trampolin_55: 2063378629
+      dante_trampolin_56: 1702417402
+      dante_trampolin_57: 2014290043
+      dante_trampolin_6: 48935146
+      dante_trampolin_7: 2099480783
+      dante_trampolin_8: 1384701192
+      dante_trampolin_9: -1089773033
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
