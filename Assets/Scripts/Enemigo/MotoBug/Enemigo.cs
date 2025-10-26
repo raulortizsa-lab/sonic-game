@@ -28,7 +28,8 @@ public class Enemigo : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Player"))
         {
-            
+             player p = other.gameObject.GetComponent<player>();
+             p.Damage();
         }
     }
 }

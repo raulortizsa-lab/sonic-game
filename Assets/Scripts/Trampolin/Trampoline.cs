@@ -33,6 +33,8 @@ public class Trampoline : MonoBehaviour
                 {
                     audioSource.PlayOneShot(jumpSound);
                 }
+                player p = other.gameObject.GetComponent<player>();
+                p.isJumpingInTrampoline();
 
                 // Resetear la velocidad vertical para un salto más consistente
                 rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f);
