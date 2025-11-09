@@ -4741,14 +4741,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70de0e1849983a94387dc1ccba788827, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _trasnform: {fileID: 235727614}
-  _spriteRedenderer: {fileID: 235727613}
-  _ridgidbody2D: {fileID: 235727615}
+  _transform: {fileID: 235727614}
+  _spriteRenderer: {fileID: 235727613}
+  _rigidbody2D: {fileID: 235727615}
+  animator_ref: {fileID: 235727618}
   jump_sound: {fileID: 8378505857606368494}
+  CoinTextref: {fileID: 1010049334}
   speed: 7
   jumpForce: 12
-  animator_ref: {fileID: 235727618}
   isGrounded: 1
+  ringPrefab: {fileID: 1147399932}
+  ringsToSpawn: 10
+  ringForce: 5
 --- !u!95 &235727618
 Animator:
   serializedVersion: 7
@@ -15336,6 +15340,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CoinTextref: {fileID: 1010049334}
+  enableDelay: 1
 --- !u!1 &702309313
 GameObject:
   m_ObjectHideFlags: 0
@@ -21990,6 +21995,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CoinTextref: {fileID: 1010049334}
+  enableDelay: 1
 --- !u!1 &1024941760
 GameObject:
   m_ObjectHideFlags: 0
@@ -28439,6 +28445,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CoinTextref: {fileID: 1010049334}
+  enableDelay: 1
 --- !u!1 &1257843087
 GameObject:
   m_ObjectHideFlags: 0
@@ -46146,6 +46153,9 @@ MonoBehaviour:
   speed: 2
   pointA: {fileID: 8620330581288413739}
   pointB: {fileID: 7723531625982784848}
+  proyectil: {fileID: 0}
+  position1: {fileID: 0}
+  position2: {fileID: 0}
 --- !u!1 &3068907978716746608
 GameObject:
   m_ObjectHideFlags: 0
