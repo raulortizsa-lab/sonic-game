@@ -78,7 +78,7 @@ public class player : MonoBehaviour
         isDamaged = true;
         animator_ref.Play("damage");
 
-        yield return new WaitForSeconds(0.5f);
+        //yield return new WaitForSeconds(0.5f);
         // Lanza anillos al ser golpeado
         //DropRings();
 
