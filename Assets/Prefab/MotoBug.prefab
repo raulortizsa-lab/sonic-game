@@ -179,6 +179,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   enemigoRef: {fileID: 3420008831191196583}
+  killzoneFirst: 0
 --- !u!1 &8184957581577266472
 GameObject:
   m_ObjectHideFlags: 0
@@ -381,3 +382,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 18
   spawnerRef: {fileID: 0}
+  _Killzoneref: {fileID: 975463255888633361}

@@ -9,6 +9,7 @@ public class Enemigo : MonoBehaviour
     private Transform enemyTranform;
     public float speed;
     public Spawner spawnerRef;
+    public Killzone _Killzoneref;
     
     // Start is called before the first frame update
     void Start()
@@ -26,7 +27,7 @@ public class Enemigo : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D other)
     {
-        if (other.gameObject.CompareTag("Player"))
+        if (other.gameObject.CompareTag("Player") && _Killzoneref.killzoneFirst == false)
         {
              player p = other.gameObject.GetComponent<player>();
              p.Damage();

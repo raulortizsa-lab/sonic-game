@@ -13,6 +13,7 @@ public class ProjectileBehaviour : MonoBehaviour
         // Si toca un objeto con el tag "Player"
         if (other.CompareTag("Player"))
         {
+            other.GetComponent<player>().Damage();
             Debug.Log("El proyectil ha tocado al jugador!");
         }
     }

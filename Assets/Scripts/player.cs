@@ -80,7 +80,7 @@ public class player : MonoBehaviour
 
         yield return new WaitForSeconds(0.5f);
         // Lanza anillos al ser golpeado
-        DropRings();
+        //DropRings();
 
         float direction = _spriteRenderer.flipX ? 1f : -1f;
         _rigidbody2D.linearVelocity = Vector2.zero;

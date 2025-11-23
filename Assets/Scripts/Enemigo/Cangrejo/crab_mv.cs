@@ -15,6 +15,9 @@ public class crab_mv : MonoBehaviour
     private bool movingToB = true;   // Si va hacia B o hacia A
     private bool isWaiting = false;  // Para evitar múltiples corutinas
     private Animator _animator;
+    
+    public Killzone _Killzoneref;
+    
     void Start()
     {
         crabTrf = transform;
@@ -62,5 +65,14 @@ public class crab_mv : MonoBehaviour
         isWaiting = false;
         _animator.SetBool("Waiting", isWaiting);
         _animator.SetBool("Point", movingToB);
+    }
+    
+    private void OnCollisionEnter2D(Collision2D other)
+    {
+        if (other.gameObject.CompareTag("Player") && _Killzoneref.killzoneFirst == false)
+        {
+            player p = other.gameObject.GetComponent<player>();
+            p.Damage();
+        }
     }
 }
