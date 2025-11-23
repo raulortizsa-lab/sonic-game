@@ -16,7 +16,7 @@ public class crab_mv : MonoBehaviour
     private bool isWaiting = false;  // Para evitar múltiples corutinas
     private Animator _animator;
     
-    public Killzone _Killzoneref;
+    public KillzoneCangrejo _Killzoneref;
     
     void Start()
     {
