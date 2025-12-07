@@ -21,8 +21,8 @@ public class player : MonoBehaviour
 
     [Header("Anillos")]
     public GameObject ringPrefab;
-    public int ringsToSpawn = 10; // cantidad de anillos que salen volando
-    public float ringForce = 5f;  // fuerza con la que se lanzan
+    public int ringsToSpawn = 10;
+    public float ringForce = 5f;
 
     void Update()
     {
@@ -78,35 +78,46 @@ public class player : MonoBehaviour
         isDamaged = true;
         animator_ref.Play("damage");
 
-        //yield return new WaitForSeconds(0.5f);
-        // Lanza anillos al ser golpeado
-        //DropRings();
+        // Sonic ring burst
+        DropRings();
 
         float direction = _spriteRenderer.flipX ? 1f : -1f;
         _rigidbody2D.linearVelocity = Vector2.zero;
         _rigidbody2D.AddForce(new Vector2(direction * 8f, 5f), ForceMode2D.Impulse);
 
         yield return new WaitForSeconds(1.5f);
-
         isDamaged = false;
     }
 
+    // --------------------------------------------------------
+    //     RING BURST - SONIC STYLE (completo y funcional)
+    // --------------------------------------------------------
     private void DropRings()
     {
         if (ringPrefab == null) return;
 
+        float angleStep = 360f / ringsToSpawn;
+        float spawnRadius = 1.0f; // separación real entre anillos
+
         for (int i = 0; i < ringsToSpawn; i++)
         {
-            GameObject ring = Instantiate(ringPrefab, _transform.position, Quaternion.identity);
+            float angle = i * angleStep * Mathf.Deg2Rad;
+            Vector2 direction = new Vector2(Mathf.Cos(angle), Mathf.Sin(angle));
+
+            // Instancia los anillos separados desde el inicio
+            Vector3 spawnPos = _transform.position + (Vector3)(direction * spawnRadius);
+
+            GameObject ring = Instantiate(ringPrefab, spawnPos, Quaternion.identity);
             ring.GetComponent<Coin>().CoinTextref = CoinTextref;
 
             Rigidbody2D rb = ring.GetComponent<Rigidbody2D>();
-            
             if (rb != null)
             {
-                // Dirección aleatoria con fuerza
-                Vector2 randomDir = new Vector2(Random.Range(-1f, 1f), Random.Range(0.5f, 1f)).normalized;
-                rb.AddForce(randomDir * ringForce, ForceMode2D.Impulse);
+                // Fuerza inicial fuerte para separarlos
+                rb.AddForce(direction.normalized * (ringForce * 1.5f), ForceMode2D.Impulse);
+
+                // Torque para que giren
+                rb.AddTorque(Random.Range(-100f, 100f));
             }
         }
     }
