@@ -11,6 +11,6 @@ public class CoinText : MonoBehaviour
     {
         currentCoin++;
         audioref.Play();
-        text_ref.text = "Monedas: " + currentCoin.ToString("00");
+        text_ref.text = currentCoin.ToString("0");
     }
 }
