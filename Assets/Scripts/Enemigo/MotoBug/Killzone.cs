@@ -11,6 +11,8 @@ public class Killzone : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Player"))
         {
+            GameManager.Instance.addScore(100);
+            
             killzoneFirst = true;
             enemigoRef.spawnerRef.canSpawn = true;
             enemigoRef.gameObject.SetActive(false);

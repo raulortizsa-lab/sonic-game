@@ -3,8 +3,7 @@ using System.Collections;
 
 public class Coin : MonoBehaviour
 {
-    public CoinText CoinTextref;
-    private AudioSource CoinSound;
+    public AudioSource CoinSound;
     private Collider2D _collider;
 
     public float enableDelay = 1f; // tiempo antes de que el collider se active
@@ -35,12 +34,12 @@ public class Coin : MonoBehaviour
 
         if (other.CompareTag("Player"))
         {
-            CoinTextref.sumarContador();
+            GameManager.Instance.addRing();
 
             CoinSound = gameObject.GetComponent<AudioSource>();
             if (CoinSound != null)
                 CoinSound.Play();
-
+            
             Destroy(gameObject);
         }
     }

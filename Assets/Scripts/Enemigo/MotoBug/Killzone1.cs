@@ -11,6 +11,8 @@ public class KillzoneCangrejo : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Player"))
         {
+            GameManager.Instance.addScore(100);
+            
             killzoneFirst = true;
             Destroy(cangrejoobjeto);
         }

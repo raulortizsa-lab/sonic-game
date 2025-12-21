@@ -21,7 +21,6 @@ public class player : MonoBehaviour
 
     [Header("Anillos")]
     public GameObject ringPrefab;
-    public int ringsToSpawn = 10;
     public float ringForce = 5f;
 
     void Update()
@@ -77,13 +76,16 @@ public class player : MonoBehaviour
     {
         isDamaged = true;
         animator_ref.Play("damage");
-
-        // Sonic ring burst
-        DropRings();
-
+        
         float direction = _spriteRenderer.flipX ? 1f : -1f;
         _rigidbody2D.linearVelocity = Vector2.zero;
         _rigidbody2D.AddForce(new Vector2(direction * 8f, 5f), ForceMode2D.Impulse);
+        
+        yield return new WaitForSeconds(0.6f);
+        // Sonic ring burst
+        DropRings();
+
+        
 
         yield return new WaitForSeconds(1.5f);
         isDamaged = false;
@@ -94,31 +96,41 @@ public class player : MonoBehaviour
     // --------------------------------------------------------
     private void DropRings()
     {
-        if (ringPrefab == null) return;
-
-        float angleStep = 360f / ringsToSpawn;
-        float spawnRadius = 1.0f; // separación real entre anillos
-
-        for (int i = 0; i < ringsToSpawn; i++)
+        if (GameManager.Instance.rings != 0)
         {
-            float angle = i * angleStep * Mathf.Deg2Rad;
-            Vector2 direction = new Vector2(Mathf.Cos(angle), Mathf.Sin(angle));
+            if (ringPrefab == null) return;
 
-            // Instancia los anillos separados desde el inicio
-            Vector3 spawnPos = _transform.position + (Vector3)(direction * spawnRadius);
+            float angleStep = 360f / GameManager.Instance.rings;
+            float spawnRadius = 1.0f; // separación real entre anillos
 
-            GameObject ring = Instantiate(ringPrefab, spawnPos, Quaternion.identity);
-            ring.GetComponent<Coin>().CoinTextref = CoinTextref;
-
-            Rigidbody2D rb = ring.GetComponent<Rigidbody2D>();
-            if (rb != null)
+            for (int i = 0; i < GameManager.Instance.rings; i++)
             {
-                // Fuerza inicial fuerte para separarlos
-                rb.AddForce(direction.normalized * (ringForce * 1.5f), ForceMode2D.Impulse);
+                float angle = i * angleStep * Mathf.Deg2Rad;
+                Vector2 direction = new Vector2(Mathf.Cos(angle), Mathf.Sin(angle));
 
-                // Torque para que giren
-                rb.AddTorque(Random.Range(-100f, 100f));
+                // Instancia los anillos separados desde el inicio
+                Vector3 spawnPos = _transform.position + (Vector3)(direction * spawnRadius);
+
+                GameObject ring = Instantiate(ringPrefab, spawnPos, Quaternion.identity);
+
+                Rigidbody2D rb = ring.GetComponent<Rigidbody2D>();
+                if (rb != null)
+                {
+                    // Fuerza inicial fuerte para separarlos
+                    rb.AddForce(direction.normalized * (ringForce * 1.5f), ForceMode2D.Impulse);
+
+                    // Torque para que giren
+                    rb.AddTorque(Random.Range(-100f, 100f));
+                }
             }
+
+            GameManager.Instance.cleanRings();
         }
+        else
+        {
+            GameManager.Instance.TMP_rings.text = 0.ToString();
+            GameManager.Instance.loseLife();
+        }
+        
     }
 }
