@@ -48214,6 +48214,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70de0e1849983a94387dc1ccba788827, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Sfxlibrary: {fileID: 11400000, guid: 7d9e7e8d1b192054a9cb95364768c52b, type: 2}
   _transform: {fileID: 1985733189}
   _spriteRenderer: {fileID: 1985733194}
   _rigidbody2D: {fileID: 1985733193}

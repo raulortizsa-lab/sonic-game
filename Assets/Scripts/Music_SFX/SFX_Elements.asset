@@ -20,3 +20,7 @@ MonoBehaviour:
     clip: {fileID: 8300000, guid: cbff4540ee3bb3e4eb950f77f4736da5, type: 3}
     volume: 1
     pitch: 1
+  - name: Sfx.Elements.DropRing
+    clip: {fileID: 8300000, guid: 22e24e06039609e4ebafa8734942363a, type: 3}
+    volume: 1
+    pitch: 1

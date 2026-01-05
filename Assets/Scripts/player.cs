@@ -1,9 +1,12 @@
 using UnityEngine;
 using System.Collections;
+using Unity.Burst.CompilerServices;
+using Managers;
 
 public class player : MonoBehaviour
 {
     [Header("Componentes")]
+    public SoundLibrary Sfxlibrary;
     public Transform _transform;
     public SpriteRenderer _spriteRenderer;
     public Rigidbody2D _rigidbody2D;
@@ -84,6 +87,7 @@ public class player : MonoBehaviour
         yield return new WaitForSeconds(0.6f);
         // Sonic ring burst
         DropRings();
+        AudioManager.Instance.Play(Sfxlibrary,ConstantManager.Sfx.Elements.DropRing);
 
         
 

@@ -7,6 +7,7 @@ namespace Managers
             public static class Elements
             {
                 public const string Ring = "Sfx.Elements.Ring";
+                public const string DropRing = "Sfx.Elements.DropRing";
             }
         }
     }
