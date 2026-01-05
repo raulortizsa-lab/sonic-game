@@ -1,9 +1,11 @@
 using UnityEngine;
 using System.Collections;
+using Managers;
+using UnityEngine.Serialization;
 
 public class Coin : MonoBehaviour
 {
-    public AudioSource CoinSound;
+    public SoundLibrary sfxElements;
     private Collider2D _collider;
 
     public float enableDelay = 1f; // tiempo antes de que el collider se active
@@ -35,10 +37,7 @@ public class Coin : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             GameManager.Instance.addRing();
-
-            CoinSound = gameObject.GetComponent<AudioSource>();
-            if (CoinSound != null)
-                CoinSound.Play();
+            AudioManager.Instance.Play(sfxElements, ConstantManager.Sfx.Elements.Ring);
             
             Destroy(gameObject);
         }
