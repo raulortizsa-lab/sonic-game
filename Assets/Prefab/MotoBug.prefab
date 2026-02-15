@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8877104958433890231}
   - component: {fileID: 7917199395309500926}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Enenimigos_Sprites_4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -98,7 +98,7 @@ GameObject:
   - component: {fileID: 3290000246318044167}
   - component: {fileID: 1082996618815735741}
   - component: {fileID: 975463255888633361}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: killHitbox
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -194,9 +194,9 @@ GameObject:
   - component: {fileID: 5311376586447187646}
   - component: {fileID: 880458055542808856}
   - component: {fileID: 3420008831191196583}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: MotoBug
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

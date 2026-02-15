@@ -36,33 +36,59 @@ public class player : MonoBehaviour
         if (isGrounded)
             animator_ref.SetBool("isTrampolin", false);
 
-        if (Input.GetKey(KeyCode.A))
+        // -----------------------
+        // AGACHARSE
+        // -----------------------
+        if (Input.GetKey(KeyCode.S) && isGrounded)
         {
-            animator_ref.SetBool("isWalking", true);
-            Vector3 pos = _transform.position;
-            pos.x -= speed * Time.deltaTime;
-            _transform.position = pos;
-            _spriteRenderer.flipX = true;
+            animator_ref.SetBool("isDuck", true);
         }
-        else if (Input.GetKey(KeyCode.D))
+        else
         {
-            animator_ref.SetBool("isWalking", true);
-            Vector3 pos = _transform.position;
-            pos.x += speed * Time.deltaTime;
-            _transform.position = pos;
-            _spriteRenderer.flipX = false;
+            animator_ref.SetBool("isDuck", false);
+        }
+
+        // -----------------------
+        // MOVIMIENTO (solo si NO está agachado)
+        // -----------------------
+        if (!animator_ref.GetBool("isDuck"))
+        {
+            if (Input.GetKey(KeyCode.A))
+            {
+                animator_ref.SetBool("isWalking", true);
+                Vector3 pos = _transform.position;
+                pos.x -= speed * Time.deltaTime;
+                _transform.position = pos;
+                _spriteRenderer.flipX = true;
+            }
+            else if (Input.GetKey(KeyCode.D))
+            {
+                animator_ref.SetBool("isWalking", true);
+                Vector3 pos = _transform.position;
+                pos.x += speed * Time.deltaTime;
+                _transform.position = pos;
+                _spriteRenderer.flipX = false;
+            }
+            else
+            {
+                animator_ref.SetBool("isWalking", false);
+            }
         }
         else
         {
             animator_ref.SetBool("isWalking", false);
         }
 
-        if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
+        // -----------------------
+        // SALTO (no puede saltar agachado)
+        // -----------------------
+        if (Input.GetKeyDown(KeyCode.Space) && isGrounded && !animator_ref.GetBool("isDuck"))
         {
             jump_sound.Play();
             _rigidbody2D.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
         }
     }
+
 
     public void isJumpingInTrampoline()
     {
@@ -84,7 +110,7 @@ public class player : MonoBehaviour
         _rigidbody2D.linearVelocity = Vector2.zero;
         _rigidbody2D.AddForce(new Vector2(direction * 8f, 5f), ForceMode2D.Impulse);
         
-        yield return new WaitForSeconds(0.6f);
+        yield return new WaitForSeconds(0.4f);
         // Sonic ring burst
         DropRings();
         AudioManager.Instance.Play(Sfxlibrary,ConstantManager.Sfx.Elements.DropRing);
@@ -100,41 +126,43 @@ public class player : MonoBehaviour
     // --------------------------------------------------------
     private void DropRings()
     {
-        if (GameManager.Instance.rings != 0)
-        {
-            if (ringPrefab == null) return;
+        int ringCount = GameManager.Instance.rings;
 
-            float angleStep = 360f / GameManager.Instance.rings;
-            float spawnRadius = 1.0f; // separación real entre anillos
-
-            for (int i = 0; i < GameManager.Instance.rings; i++)
-            {
-                float angle = i * angleStep * Mathf.Deg2Rad;
-                Vector2 direction = new Vector2(Mathf.Cos(angle), Mathf.Sin(angle));
-
-                // Instancia los anillos separados desde el inicio
-                Vector3 spawnPos = _transform.position + (Vector3)(direction * spawnRadius);
-
-                GameObject ring = Instantiate(ringPrefab, spawnPos, Quaternion.identity);
-
-                Rigidbody2D rb = ring.GetComponent<Rigidbody2D>();
-                if (rb != null)
-                {
-                    // Fuerza inicial fuerte para separarlos
-                    rb.AddForce(direction.normalized * (ringForce * 1.5f), ForceMode2D.Impulse);
-
-                    // Torque para que giren
-                    rb.AddTorque(Random.Range(-100f, 100f));
-                }
-            }
-
-            GameManager.Instance.cleanRings();
-        }
-        else
-        {
-            GameManager.Instance.TMP_rings.text = 0.ToString();
-            GameManager.Instance.loseLife();
-        }
+        float totalAngle = 160f;
+        float centerAngle = 90f;
+        float startAngle = centerAngle - (totalAngle / 2f);
         
+        float angleStep = ringCount > 1 ? totalAngle / (ringCount - 1) : 0f;
+        GameManager.Instance.rings = 0;
+        GameManager.Instance.TMP_rings.text = "0";
+        
+        float spawnRadius = 0.8f;
+        
+        
+        for (int i = 0; i < ringCount; i++)
+        {
+            float angle = (startAngle + i * angleStep) * Mathf.Deg2Rad;
+
+            Vector2 direction = new Vector2(Mathf.Cos(angle), Mathf.Sin(angle));
+
+            Vector3 spawnPos = _transform.position + (Vector3)(direction * spawnRadius);
+
+            GameObject ring = Instantiate(ringPrefab, spawnPos, Quaternion.identity);
+
+            Rigidbody2D rb = ring.GetComponent<Rigidbody2D>();
+            if (rb != null)
+            {
+                rb.linearVelocity = Vector2.zero;
+
+                float randomForce = Random.Range(ringForce * 0.9f, ringForce * 1.1f);
+                rb.AddForce(direction.normalized * randomForce, ForceMode2D.Impulse);
+
+                rb.AddTorque(Random.Range(-120f, 120f));
+            }
+        }
+
     }
+    
+    
+
 }

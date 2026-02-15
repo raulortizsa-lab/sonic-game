@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 6176440553190702869}
   - component: {fileID: 8717898084800962640}
   - component: {fileID: 665217183642325668}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Killhitbox
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -103,7 +103,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5940370902397238916}
   - component: {fileID: 7408086827392236916}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: A
   m_TagString: Untagged
   m_Icon: {fileID: 6519382022992737161, guid: 0000000000000000d000000000000000, type: 0}
@@ -190,7 +190,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2023336310105507340}
   - component: {fileID: 3580147258239193485}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: B
   m_TagString: Untagged
   m_Icon: {fileID: 7174288486110832750, guid: 0000000000000000d000000000000000, type: 0}
@@ -281,7 +281,7 @@ GameObject:
   - component: {fileID: 5906246756078276261}
   - component: {fileID: 2154943589962282954}
   - component: {fileID: 9082246429478963715}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Cangrejo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -484,7 +484,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6129648483347655260}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Spawner2
   m_TagString: Untagged
   m_Icon: {fileID: 7174288486110832750, guid: 0000000000000000d000000000000000, type: 0}
@@ -515,9 +515,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5963354668180370328}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: CangrejoZone
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -549,7 +549,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5057435872842822325}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Spawner1
   m_TagString: Untagged
   m_Icon: {fileID: 7174288486110832750, guid: 0000000000000000d000000000000000, type: 0}
