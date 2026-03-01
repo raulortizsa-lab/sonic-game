@@ -1,7 +1,9 @@
+using System;
 using UnityEngine;
 using System.Collections;
 using Unity.Burst.CompilerServices;
 using Managers;
+using Random = UnityEngine.Random;
 
 public class player : MonoBehaviour
 {
@@ -13,6 +15,7 @@ public class player : MonoBehaviour
     public Animator animator_ref;
     public AudioSource jump_sound;
     public CoinText CoinTextref;
+    public BoxCollider2D boxCollider2D;
 
     [Header("Movimiento")]
     public float speed = 1;
@@ -39,13 +42,19 @@ public class player : MonoBehaviour
         // -----------------------
         // AGACHARSE
         // -----------------------
-        if (Input.GetKey(KeyCode.S) && isGrounded)
+        if (Input.GetKey(KeyCode.S))
         {
             animator_ref.SetBool("isDuck", true);
+
+            if (isGrounded)
+            {
+                boxCollider2D.size = new Vector2(boxCollider2D.size.x, 0.25f);
+            }
         }
         else
         {
             animator_ref.SetBool("isDuck", false);
+            boxCollider2D.size = new Vector2(boxCollider2D.size.x, 0.41f);
         }
 
         // -----------------------
