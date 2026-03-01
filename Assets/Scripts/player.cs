@@ -17,6 +17,7 @@ public class player : MonoBehaviour
     public CoinText CoinTextref;
     public BoxCollider2D boxCollider2D;
 
+    
     [Header("Movimiento")]
     public float speed = 1;
     public float jumpForce = 5;
@@ -29,6 +30,11 @@ public class player : MonoBehaviour
     public GameObject ringPrefab;
     public float ringForce = 5f;
 
+    [Header("Spindash")]
+    public bool isSpindash = false;
+    public int spindashCharge = 0;
+    public int spindashMaxCharge = 20;
+    
     void Update()
     {
         if (isDamaged) return;
@@ -48,13 +54,29 @@ public class player : MonoBehaviour
 
             if (isGrounded)
             {
+                boxCollider2D.offset = new Vector2(boxCollider2D.offset.x, -0.06940699f);
                 boxCollider2D.size = new Vector2(boxCollider2D.size.x, 0.25f);
+            }
+            if(Input.GetKeyDown(KeyCode.Space) && isGrounded)
+            {
+                isSpindash = true;
+                if (spindashCharge < spindashMaxCharge)
+                {
+                    spindashCharge += 3;
+                }
+                Debug.Log(spindashCharge);
             }
         }
         else
         {
+            _rigidbody2D.AddForce(new Vector2(spindashCharge, 0f), ForceMode2D.Impulse);
             animator_ref.SetBool("isDuck", false);
+            boxCollider2D.offset = new Vector2(boxCollider2D.offset.x, 0f);
             boxCollider2D.size = new Vector2(boxCollider2D.size.x, 0.41f);
+            
+            isSpindash = false;
+            spindashCharge = 0;
+            Debug.Log(spindashCharge);
         }
 
         // -----------------------

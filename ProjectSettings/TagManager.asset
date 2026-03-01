@@ -47,11 +47,11 @@ TagManager:
   - name: Bg
     uniqueID: 3106021975
     locked: 0
-  - name: Player
-    uniqueID: 1338321033
-    locked: 0
   - name: Map
     uniqueID: 1700881471
+    locked: 0
+  - name: Player
+    uniqueID: 1338321033
     locked: 0
   m_RenderingLayers:
   - Default
