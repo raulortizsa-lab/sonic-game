@@ -16,7 +16,7 @@ public class player : MonoBehaviour
     public AudioSource jump_sound;
     public CoinText CoinTextref;
     public BoxCollider2D boxCollider2D;
-
+    public bool ViewDirection; // true = izquierda, false = derecha 
     
     [Header("Movimiento")]
     public float speed = 1;
@@ -69,7 +69,15 @@ public class player : MonoBehaviour
         }
         else
         {
-            _rigidbody2D.AddForce(new Vector2(spindashCharge, 0f), ForceMode2D.Impulse);
+            if (!ViewDirection)
+            {
+                _rigidbody2D.AddForce(new Vector2(spindashCharge, 0f), ForceMode2D.Impulse);
+            }
+            else
+            {
+                _rigidbody2D.AddForce(new Vector2(-spindashCharge, 0f), ForceMode2D.Impulse);
+            }
+           
             animator_ref.SetBool("isDuck", false);
             boxCollider2D.offset = new Vector2(boxCollider2D.offset.x, 0f);
             boxCollider2D.size = new Vector2(boxCollider2D.size.x, 0.41f);
@@ -91,6 +99,7 @@ public class player : MonoBehaviour
                 pos.x -= speed * Time.deltaTime;
                 _transform.position = pos;
                 _spriteRenderer.flipX = true;
+                ViewDirection = true;
             }
             else if (Input.GetKey(KeyCode.D))
             {
@@ -99,6 +108,7 @@ public class player : MonoBehaviour
                 pos.x += speed * Time.deltaTime;
                 _transform.position = pos;
                 _spriteRenderer.flipX = false;
+                ViewDirection = false;
             }
             else
             {
