@@ -60,9 +60,12 @@ public class player : MonoBehaviour
             if(Input.GetKeyDown(KeyCode.Space) && isGrounded)
             {
                 isSpindash = true;
+                animator_ref.SetBool("isSpinDash", true);
+                
                 if (spindashCharge < spindashMaxCharge)
                 {
                     spindashCharge += 3;
+                    animator_ref.speed = 1 + (spindashCharge / (float)spindashMaxCharge);
                 }
                 Debug.Log(spindashCharge);
             }
@@ -72,10 +75,14 @@ public class player : MonoBehaviour
             if (!ViewDirection)
             {
                 _rigidbody2D.AddForce(new Vector2(spindashCharge, 0f), ForceMode2D.Impulse);
+                animator_ref.SetBool("isSpinDash", false);
+                animator_ref.speed = 1;
             }
             else
             {
                 _rigidbody2D.AddForce(new Vector2(-spindashCharge, 0f), ForceMode2D.Impulse);
+                animator_ref.SetBool("isSpinDash", false);
+                animator_ref.speed = 1;
             }
            
             animator_ref.SetBool("isDuck", false);
