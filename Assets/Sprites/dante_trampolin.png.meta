@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -67,7 +67,7 @@ TextureImporter:
   swizzle: 50462976
   cookieLightType: 0
   platformSettings:
-  - serializedVersion: 3
+  - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -80,8 +80,34 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
+  - serializedVersion: 4
     buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -100,13 +126,14 @@ TextureImporter:
       name: dante_trampolin_0
       rect:
         serializedVersion: 2
-        x: 161
-        y: 3128
-        width: 266
-        height: 336
+        x: 47
+        y: 3268
+        width: 475
+        height: 143
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -121,13 +148,14 @@ TextureImporter:
       name: dante_trampolin_1
       rect:
         serializedVersion: 2
-        x: 427
-        y: 3128
-        width: 266
-        height: 336
+        x: 559
+        y: 3272
+        width: 130
+        height: 134
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -142,13 +170,14 @@ TextureImporter:
       name: dante_trampolin_2
       rect:
         serializedVersion: 2
-        x: 693
-        y: 3128
-        width: 266
-        height: 336
+        x: 738
+        y: 3290
+        width: 128
+        height: 114
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -163,13 +192,14 @@ TextureImporter:
       name: dante_trampolin_3
       rect:
         serializedVersion: 2
-        x: 959
-        y: 3128
-        width: 266
-        height: 336
+        x: 911
+        y: 3272
+        width: 112
+        height: 117
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -184,13 +214,14 @@ TextureImporter:
       name: dante_trampolin_4
       rect:
         serializedVersion: 2
-        x: 1225
-        y: 3128
-        width: 266
-        height: 336
+        x: 1067
+        y: 3272
+        width: 115
+        height: 117
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -205,13 +236,14 @@ TextureImporter:
       name: dante_trampolin_5
       rect:
         serializedVersion: 2
-        x: 1491
-        y: 3128
-        width: 266
-        height: 336
+        x: 1232
+        y: 3272
+        width: 101
+        height: 117
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -226,13 +258,14 @@ TextureImporter:
       name: dante_trampolin_6
       rect:
         serializedVersion: 2
-        x: 161
-        y: 2792
-        width: 266
-        height: 336
+        x: 1381
+        y: 3280
+        width: 137
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -247,13 +280,14 @@ TextureImporter:
       name: dante_trampolin_7
       rect:
         serializedVersion: 2
-        x: 427
-        y: 2792
-        width: 266
-        height: 336
+        x: 1572
+        y: 3293
+        width: 122
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -268,13 +302,14 @@ TextureImporter:
       name: dante_trampolin_8
       rect:
         serializedVersion: 2
-        x: 693
-        y: 2792
-        width: 266
-        height: 336
+        x: 70
+        y: 2846
+        width: 350
+        height: 346
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -289,13 +324,14 @@ TextureImporter:
       name: dante_trampolin_9
       rect:
         serializedVersion: 2
-        x: 959
-        y: 2792
-        width: 266
-        height: 336
+        x: 476
+        y: 2834
+        width: 438
+        height: 357
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -310,13 +346,14 @@ TextureImporter:
       name: dante_trampolin_10
       rect:
         serializedVersion: 2
-        x: 1225
-        y: 2792
-        width: 266
-        height: 336
+        x: 994
+        y: 2839
+        width: 362
+        height: 348
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -331,13 +368,14 @@ TextureImporter:
       name: dante_trampolin_11
       rect:
         serializedVersion: 2
-        x: 1491
-        y: 2792
-        width: 266
-        height: 336
+        x: 1424
+        y: 2837
+        width: 360
+        height: 345
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -352,13 +390,14 @@ TextureImporter:
       name: dante_trampolin_12
       rect:
         serializedVersion: 2
-        x: 427
-        y: 2456
-        width: 266
-        height: 336
+        x: 561
+        y: 2615
+        width: 299
+        height: 95
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -373,13 +412,14 @@ TextureImporter:
       name: dante_trampolin_13
       rect:
         serializedVersion: 2
-        x: 693
-        y: 2456
-        width: 266
-        height: 336
+        x: 923
+        y: 2616
+        width: 113
+        height: 91
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -394,13 +434,14 @@ TextureImporter:
       name: dante_trampolin_14
       rect:
         serializedVersion: 2
-        x: 959
-        y: 2456
-        width: 266
-        height: 336
+        x: 1105
+        y: 2623
+        width: 183
+        height: 83
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -415,13 +456,14 @@ TextureImporter:
       name: dante_trampolin_15
       rect:
         serializedVersion: 2
-        x: 1225
-        y: 2456
-        width: 266
-        height: 336
+        x: 1304
+        y: 2487
+        width: 78
+        height: 51
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -436,13 +478,14 @@ TextureImporter:
       name: dante_trampolin_16
       rect:
         serializedVersion: 2
-        x: 1491
-        y: 2456
-        width: 266
-        height: 336
+        x: 1444
+        y: 2486
+        width: 77
+        height: 53
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -457,13 +500,14 @@ TextureImporter:
       name: dante_trampolin_17
       rect:
         serializedVersion: 2
-        x: 161
-        y: 2120
-        width: 266
-        height: 336
+        x: 1583
+        y: 2339
+        width: 214
+        height: 172
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -478,13 +522,14 @@ TextureImporter:
       name: dante_trampolin_18
       rect:
         serializedVersion: 2
-        x: 427
-        y: 2120
-        width: 266
-        height: 336
+        x: 184
+        y: 2291
+        width: 216
+        height: 151
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -499,13 +544,14 @@ TextureImporter:
       name: dante_trampolin_19
       rect:
         serializedVersion: 2
-        x: 693
-        y: 2120
-        width: 266
-        height: 336
+        x: 444
+        y: 2290
+        width: 233
+        height: 77
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -520,13 +566,14 @@ TextureImporter:
       name: dante_trampolin_20
       rect:
         serializedVersion: 2
-        x: 1225
-        y: 2120
-        width: 266
-        height: 336
+        x: 717
+        y: 2147
+        width: 231
+        height: 289
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -541,13 +588,14 @@ TextureImporter:
       name: dante_trampolin_21
       rect:
         serializedVersion: 2
-        x: 1491
-        y: 2120
-        width: 266
-        height: 336
+        x: 1305
+        y: 2305
+        width: 78
+        height: 152
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -562,13 +610,14 @@ TextureImporter:
       name: dante_trampolin_22
       rect:
         serializedVersion: 2
-        x: 161
-        y: 1784
-        width: 266
-        height: 336
+        x: 1442
+        y: 2305
+        width: 79
+        height: 152
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -583,13 +632,14 @@ TextureImporter:
       name: dante_trampolin_23
       rect:
         serializedVersion: 2
-        x: 427
-        y: 1784
-        width: 266
-        height: 336
+        x: 180
+        y: 1977
+        width: 218
+        height: 134
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -604,13 +654,14 @@ TextureImporter:
       name: dante_trampolin_24
       rect:
         serializedVersion: 2
-        x: 693
-        y: 1784
-        width: 266
-        height: 336
+        x: 443
+        y: 1981
+        width: 53
+        height: 73
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -625,13 +676,14 @@ TextureImporter:
       name: dante_trampolin_25
       rect:
         serializedVersion: 2
-        x: 959
-        y: 1784
-        width: 266
-        height: 336
+        x: 531
+        y: 1981
+        width: 135
+        height: 73
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -646,13 +698,14 @@ TextureImporter:
       name: dante_trampolin_26
       rect:
         serializedVersion: 2
-        x: 1225
-        y: 1784
-        width: 266
-        height: 336
+        x: 726
+        y: 2016
+        width: 51
+        height: 79
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -667,13 +720,14 @@ TextureImporter:
       name: dante_trampolin_27
       rect:
         serializedVersion: 2
-        x: 1491
-        y: 1784
-        width: 266
-        height: 336
+        x: 805
+        y: 2016
+        width: 145
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -688,13 +742,14 @@ TextureImporter:
       name: dante_trampolin_28
       rect:
         serializedVersion: 2
-        x: 161
-        y: 1448
-        width: 266
-        height: 336
+        x: 1304
+        y: 2011
+        width: 79
+        height: 239
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -709,13 +764,14 @@ TextureImporter:
       name: dante_trampolin_29
       rect:
         serializedVersion: 2
-        x: 427
-        y: 1448
-        width: 266
-        height: 336
+        x: 1443
+        y: 2014
+        width: 79
+        height: 236
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -730,13 +786,14 @@ TextureImporter:
       name: dante_trampolin_30
       rect:
         serializedVersion: 2
-        x: 693
-        y: 1448
-        width: 266
-        height: 336
+        x: 1581
+        y: 2027
+        width: 218
+        height: 181
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -751,13 +808,14 @@ TextureImporter:
       name: dante_trampolin_31
       rect:
         serializedVersion: 2
-        x: 959
-        y: 1448
-        width: 266
-        height: 336
+        x: 336
+        y: 1590
+        width: 609
+        height: 312
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -772,13 +830,14 @@ TextureImporter:
       name: dante_trampolin_32
       rect:
         serializedVersion: 2
-        x: 1225
-        y: 1448
-        width: 266
-        height: 336
+        x: 1073
+        y: 1552
+        width: 643
+        height: 388
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -793,13 +852,14 @@ TextureImporter:
       name: dante_trampolin_33
       rect:
         serializedVersion: 2
-        x: 1491
-        y: 1448
-        width: 266
-        height: 336
+        x: 199
+        y: 1132
+        width: 162
+        height: 433
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -814,13 +874,14 @@ TextureImporter:
       name: dante_trampolin_34
       rect:
         serializedVersion: 2
-        x: 161
-        y: 1112
-        width: 266
-        height: 336
+        x: 414
+        y: 1290
+        width: 134
+        height: 141
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -835,13 +896,14 @@ TextureImporter:
       name: dante_trampolin_35
       rect:
         serializedVersion: 2
-        x: 427
-        y: 1112
-        width: 266
-        height: 336
+        x: 560
+        y: 1290
+        width: 132
+        height: 136
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -856,13 +918,14 @@ TextureImporter:
       name: dante_trampolin_36
       rect:
         serializedVersion: 2
-        x: 693
-        y: 1112
-        width: 266
-        height: 336
+        x: 776
+        y: 895
+        width: 425
+        height: 487
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -877,13 +940,14 @@ TextureImporter:
       name: dante_trampolin_37
       rect:
         serializedVersion: 2
-        x: 959
-        y: 1112
-        width: 266
-        height: 336
+        x: 1231
+        y: 898
+        width: 308
+        height: 474
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -898,13 +962,14 @@ TextureImporter:
       name: dante_trampolin_38
       rect:
         serializedVersion: 2
-        x: 1225
-        y: 1112
-        width: 266
-        height: 336
+        x: 1642
+        y: 890
+        width: 187
+        height: 521
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -919,13 +984,14 @@ TextureImporter:
       name: dante_trampolin_39
       rect:
         serializedVersion: 2
-        x: 1491
-        y: 1112
-        width: 266
-        height: 336
+        x: 40
+        y: 557
+        width: 383
+        height: 457
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -940,13 +1006,14 @@ TextureImporter:
       name: dante_trampolin_40
       rect:
         serializedVersion: 2
-        x: 161
-        y: 776
-        width: 266
-        height: 336
+        x: 444
+        y: 558
+        width: 376
+        height: 452
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -961,13 +1028,14 @@ TextureImporter:
       name: dante_trampolin_41
       rect:
         serializedVersion: 2
-        x: 427
-        y: 776
-        width: 266
-        height: 336
+        x: 89
+        y: 69
+        width: 248
+        height: 438
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -982,13 +1050,14 @@ TextureImporter:
       name: dante_trampolin_42
       rect:
         serializedVersion: 2
-        x: 693
-        y: 776
-        width: 266
-        height: 336
+        x: 455
+        y: 360
+        width: 30
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -1003,13 +1072,14 @@ TextureImporter:
       name: dante_trampolin_43
       rect:
         serializedVersion: 2
-        x: 959
-        y: 776
-        width: 266
-        height: 336
+        x: 473
+        y: 73
+        width: 263
+        height: 426
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -1024,13 +1094,14 @@ TextureImporter:
       name: dante_trampolin_44
       rect:
         serializedVersion: 2
-        x: 1225
-        y: 776
-        width: 266
-        height: 336
+        x: 807
+        y: 73
+        width: 241
+        height: 425
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -1045,13 +1116,14 @@ TextureImporter:
       name: dante_trampolin_45
       rect:
         serializedVersion: 2
-        x: 1491
-        y: 776
-        width: 266
-        height: 336
+        x: 1210
+        y: 103
+        width: 203
+        height: 396
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -1066,13 +1138,14 @@ TextureImporter:
       name: dante_trampolin_46
       rect:
         serializedVersion: 2
-        x: 161
-        y: 440
-        width: 266
-        height: 336
+        x: 1515
+        y: 93
+        width: 402
+        height: 410
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -1087,13 +1160,14 @@ TextureImporter:
       name: dante_trampolin_47
       rect:
         serializedVersion: 2
-        x: 427
-        y: 440
-        width: 266
-        height: 336
+        x: 456
+        y: 170
+        width: 27
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -1104,217 +1178,8 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: dante_trampolin_48
-      rect:
-        serializedVersion: 2
-        x: 693
-        y: 440
-        width: 266
-        height: 336
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cd291992eeb8067488b34d2ead14091e
-      internalID: 1306374128
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: dante_trampolin_49
-      rect:
-        serializedVersion: 2
-        x: 959
-        y: 440
-        width: 266
-        height: 336
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 70cca86486994154ab27f3deb815189c
-      internalID: -320756158
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: dante_trampolin_50
-      rect:
-        serializedVersion: 2
-        x: 1225
-        y: 440
-        width: 266
-        height: 336
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4468386711cdfd24cbcd4a66dfa8b2b2
-      internalID: -431940348
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: dante_trampolin_51
-      rect:
-        serializedVersion: 2
-        x: 1491
-        y: 440
-        width: 266
-        height: 336
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: acdcb878fc4290e499a0e3ea5ea40ecc
-      internalID: 2071219861
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: dante_trampolin_52
-      rect:
-        serializedVersion: 2
-        x: 161
-        y: 104
-        width: 266
-        height: 336
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 41fb9d2bcb8a1d240981a228f2898610
-      internalID: -1201129209
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: dante_trampolin_53
-      rect:
-        serializedVersion: 2
-        x: 427
-        y: 104
-        width: 266
-        height: 336
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ca5f0a884ae71f2498746a163ad7167b
-      internalID: -1156562210
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: dante_trampolin_54
-      rect:
-        serializedVersion: 2
-        x: 693
-        y: 104
-        width: 266
-        height: 336
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5167456e8f982a6418610b512b5b0aa7
-      internalID: 1996985590
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: dante_trampolin_55
-      rect:
-        serializedVersion: 2
-        x: 959
-        y: 104
-        width: 266
-        height: 336
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0d377bcc63dd54b48851a9bfb6ce11d5
-      internalID: 2063378629
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: dante_trampolin_56
-      rect:
-        serializedVersion: 2
-        x: 1225
-        y: 104
-        width: 266
-        height: 336
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e37250bc77705b64e954da7dd53d60d4
-      internalID: 1702417402
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: dante_trampolin_57
-      rect:
-        serializedVersion: 2
-        x: 1491
-        y: 104
-        width: 266
-        height: 336
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 746d64f92e9772b47a08f1b11e049e90
-      internalID: 2014290043
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
+    customData: 
     physicsShape: []
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
@@ -1324,6 +1189,10 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       dante_trampolin_0: 821389017
       dante_trampolin_1: -856713616
@@ -1368,17 +1237,7 @@ TextureImporter:
       dante_trampolin_45: -707057398
       dante_trampolin_46: -940591657
       dante_trampolin_47: -368542377
-      dante_trampolin_48: 1306374128
-      dante_trampolin_49: -320756158
       dante_trampolin_5: -57471296
-      dante_trampolin_50: -431940348
-      dante_trampolin_51: 2071219861
-      dante_trampolin_52: -1201129209
-      dante_trampolin_53: -1156562210
-      dante_trampolin_54: 1996985590
-      dante_trampolin_55: 2063378629
-      dante_trampolin_56: 1702417402
-      dante_trampolin_57: 2014290043
       dante_trampolin_6: 48935146
       dante_trampolin_7: 2099480783
       dante_trampolin_8: 1384701192
