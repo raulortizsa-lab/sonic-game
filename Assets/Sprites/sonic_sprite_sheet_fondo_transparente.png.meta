@@ -1,0 +1,3094 @@
+fileFormatVersion: 2
+guid: 9e400dc1a3a0f744ab1035e990b1a8b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4970707562254917306
+    second: sonic_sprite_sheet_fondo_transparente_0
+  - first:
+      213: -1738397669724671526
+    second: sonic_sprite_sheet_fondo_transparente_1
+  - first:
+      213: 2607362778593176416
+    second: sonic_sprite_sheet_fondo_transparente_2
+  - first:
+      213: 2657709389739714473
+    second: sonic_sprite_sheet_fondo_transparente_3
+  - first:
+      213: 1252849232896890205
+    second: sonic_sprite_sheet_fondo_transparente_4
+  - first:
+      213: -7287585007490342808
+    second: sonic_sprite_sheet_fondo_transparente_5
+  - first:
+      213: -7262756523984365299
+    second: sonic_sprite_sheet_fondo_transparente_6
+  - first:
+      213: 7678431863410823459
+    second: sonic_sprite_sheet_fondo_transparente_7
+  - first:
+      213: 2725300764003762106
+    second: sonic_sprite_sheet_fondo_transparente_8
+  - first:
+      213: 1433151986172959250
+    second: sonic_sprite_sheet_fondo_transparente_9
+  - first:
+      213: 4954631859839990034
+    second: sonic_sprite_sheet_fondo_transparente_10
+  - first:
+      213: -1773220843826745236
+    second: sonic_sprite_sheet_fondo_transparente_11
+  - first:
+      213: -1541091229578152231
+    second: sonic_sprite_sheet_fondo_transparente_12
+  - first:
+      213: -4365968610758385616
+    second: sonic_sprite_sheet_fondo_transparente_13
+  - first:
+      213: -329504065796169038
+    second: sonic_sprite_sheet_fondo_transparente_14
+  - first:
+      213: -2153914681709851392
+    second: sonic_sprite_sheet_fondo_transparente_15
+  - first:
+      213: -4751809154470002653
+    second: sonic_sprite_sheet_fondo_transparente_16
+  - first:
+      213: -6033780054495725868
+    second: sonic_sprite_sheet_fondo_transparente_17
+  - first:
+      213: -3419436912503680296
+    second: sonic_sprite_sheet_fondo_transparente_18
+  - first:
+      213: 3019721613043762949
+    second: sonic_sprite_sheet_fondo_transparente_19
+  - first:
+      213: 172289224593344886
+    second: sonic_sprite_sheet_fondo_transparente_20
+  - first:
+      213: -2594576970081615160
+    second: sonic_sprite_sheet_fondo_transparente_21
+  - first:
+      213: -6883483843515849738
+    second: sonic_sprite_sheet_fondo_transparente_22
+  - first:
+      213: 1029860949737026808
+    second: sonic_sprite_sheet_fondo_transparente_23
+  - first:
+      213: -8412013564284851202
+    second: sonic_sprite_sheet_fondo_transparente_24
+  - first:
+      213: 1638678334360845700
+    second: sonic_sprite_sheet_fondo_transparente_25
+  - first:
+      213: -1821133500741503345
+    second: sonic_sprite_sheet_fondo_transparente_26
+  - first:
+      213: -6613946205839328637
+    second: sonic_sprite_sheet_fondo_transparente_27
+  - first:
+      213: 5242414486352886164
+    second: sonic_sprite_sheet_fondo_transparente_28
+  - first:
+      213: 6327868916258299918
+    second: sonic_sprite_sheet_fondo_transparente_29
+  - first:
+      213: -5700091640033118306
+    second: sonic_sprite_sheet_fondo_transparente_30
+  - first:
+      213: -6990140059926364403
+    second: sonic_sprite_sheet_fondo_transparente_31
+  - first:
+      213: 2444922396849036176
+    second: sonic_sprite_sheet_fondo_transparente_32
+  - first:
+      213: 7555973531156968851
+    second: sonic_sprite_sheet_fondo_transparente_33
+  - first:
+      213: -973347973183576138
+    second: sonic_sprite_sheet_fondo_transparente_34
+  - first:
+      213: -1417870708917245820
+    second: sonic_sprite_sheet_fondo_transparente_35
+  - first:
+      213: -146931367853362928
+    second: sonic_sprite_sheet_fondo_transparente_36
+  - first:
+      213: -1840901370820036278
+    second: sonic_sprite_sheet_fondo_transparente_37
+  - first:
+      213: 2263037150845667822
+    second: sonic_sprite_sheet_fondo_transparente_38
+  - first:
+      213: -6688109019391268740
+    second: sonic_sprite_sheet_fondo_transparente_39
+  - first:
+      213: -2998166186474216204
+    second: sonic_sprite_sheet_fondo_transparente_40
+  - first:
+      213: -8180994834840789336
+    second: sonic_sprite_sheet_fondo_transparente_41
+  - first:
+      213: -2519879121697856385
+    second: sonic_sprite_sheet_fondo_transparente_42
+  - first:
+      213: 2944367634084098464
+    second: sonic_sprite_sheet_fondo_transparente_43
+  - first:
+      213: -4388471789659028344
+    second: sonic_sprite_sheet_fondo_transparente_44
+  - first:
+      213: -6853716627081502305
+    second: sonic_sprite_sheet_fondo_transparente_45
+  - first:
+      213: -5201614955103297355
+    second: sonic_sprite_sheet_fondo_transparente_46
+  - first:
+      213: 6834249944203041437
+    second: sonic_sprite_sheet_fondo_transparente_47
+  - first:
+      213: 5666425324966319859
+    second: sonic_sprite_sheet_fondo_transparente_48
+  - first:
+      213: -6149361052737791755
+    second: sonic_sprite_sheet_fondo_transparente_49
+  - first:
+      213: 2609917383236742513
+    second: sonic_sprite_sheet_fondo_transparente_50
+  - first:
+      213: 1061513104119321660
+    second: sonic_sprite_sheet_fondo_transparente_51
+  - first:
+      213: -723749562900148174
+    second: sonic_sprite_sheet_fondo_transparente_52
+  - first:
+      213: -7024373854687564469
+    second: sonic_sprite_sheet_fondo_transparente_53
+  - first:
+      213: -3958957682021956999
+    second: sonic_sprite_sheet_fondo_transparente_54
+  - first:
+      213: -2486849086372763954
+    second: sonic_sprite_sheet_fondo_transparente_55
+  - first:
+      213: 8501584096329863007
+    second: sonic_sprite_sheet_fondo_transparente_56
+  - first:
+      213: -6588567038896566708
+    second: sonic_sprite_sheet_fondo_transparente_57
+  - first:
+      213: -2015352685990580929
+    second: sonic_sprite_sheet_fondo_transparente_58
+  - first:
+      213: -4374058094669739436
+    second: sonic_sprite_sheet_fondo_transparente_59
+  - first:
+      213: 5115059819199032824
+    second: sonic_sprite_sheet_fondo_transparente_60
+  - first:
+      213: 4596359448898137712
+    second: sonic_sprite_sheet_fondo_transparente_61
+  - first:
+      213: 1160953106266927236
+    second: sonic_sprite_sheet_fondo_transparente_62
+  - first:
+      213: -6458869044963563626
+    second: sonic_sprite_sheet_fondo_transparente_63
+  - first:
+      213: -8249100260114458681
+    second: sonic_sprite_sheet_fondo_transparente_64
+  - first:
+      213: -941308702820991643
+    second: sonic_sprite_sheet_fondo_transparente_65
+  - first:
+      213: -9189785072530018872
+    second: sonic_sprite_sheet_fondo_transparente_66
+  - first:
+      213: 4171697412767297674
+    second: sonic_sprite_sheet_fondo_transparente_67
+  - first:
+      213: -8653018823764611796
+    second: sonic_sprite_sheet_fondo_transparente_68
+  - first:
+      213: 1288015053511472787
+    second: sonic_sprite_sheet_fondo_transparente_69
+  - first:
+      213: 979838792263150469
+    second: sonic_sprite_sheet_fondo_transparente_70
+  - first:
+      213: -310531755583140414
+    second: sonic_sprite_sheet_fondo_transparente_71
+  - first:
+      213: -7640708349935646441
+    second: sonic_sprite_sheet_fondo_transparente_72
+  - first:
+      213: 472107228866008818
+    second: sonic_sprite_sheet_fondo_transparente_73
+  - first:
+      213: 6607570891255948443
+    second: sonic_sprite_sheet_fondo_transparente_74
+  - first:
+      213: 5857609723483616141
+    second: sonic_sprite_sheet_fondo_transparente_75
+  - first:
+      213: -8633498302206847021
+    second: sonic_sprite_sheet_fondo_transparente_76
+  - first:
+      213: -3582735831641106933
+    second: sonic_sprite_sheet_fondo_transparente_77
+  - first:
+      213: -8360914780491188086
+    second: sonic_sprite_sheet_fondo_transparente_78
+  - first:
+      213: -665120786426567169
+    second: sonic_sprite_sheet_fondo_transparente_79
+  - first:
+      213: -6379051924042493810
+    second: sonic_sprite_sheet_fondo_transparente_80
+  - first:
+      213: 1366422245914308473
+    second: sonic_sprite_sheet_fondo_transparente_81
+  - first:
+      213: -3609964270022437982
+    second: sonic_sprite_sheet_fondo_transparente_82
+  - first:
+      213: 4584699708655395973
+    second: sonic_sprite_sheet_fondo_transparente_83
+  - first:
+      213: 3685371251708700147
+    second: sonic_sprite_sheet_fondo_transparente_84
+  - first:
+      213: -321310723453685576
+    second: sonic_sprite_sheet_fondo_transparente_85
+  - first:
+      213: 2959676218005614482
+    second: sonic_sprite_sheet_fondo_transparente_86
+  - first:
+      213: 7975633322671082075
+    second: sonic_sprite_sheet_fondo_transparente_87
+  - first:
+      213: -5191850196348657167
+    second: sonic_sprite_sheet_fondo_transparente_88
+  - first:
+      213: -7185834252981746296
+    second: sonic_sprite_sheet_fondo_transparente_89
+  - first:
+      213: -8227878309199271643
+    second: sonic_sprite_sheet_fondo_transparente_90
+  - first:
+      213: -1146636612793047340
+    second: sonic_sprite_sheet_fondo_transparente_91
+  - first:
+      213: 4525112690703092096
+    second: sonic_sprite_sheet_fondo_transparente_92
+  - first:
+      213: -6021103373103837340
+    second: sonic_sprite_sheet_fondo_transparente_93
+  - first:
+      213: 541287629857318363
+    second: sonic_sprite_sheet_fondo_transparente_94
+  - first:
+      213: -2058183974509682752
+    second: sonic_sprite_sheet_fondo_transparente_95
+  - first:
+      213: 8642679394399137087
+    second: sonic_sprite_sheet_fondo_transparente_96
+  - first:
+      213: -755759123832233237
+    second: sonic_sprite_sheet_fondo_transparente_97
+  - first:
+      213: -6383759794087121495
+    second: sonic_sprite_sheet_fondo_transparente_98
+  - first:
+      213: 3462453210900842365
+    second: sonic_sprite_sheet_fondo_transparente_99
+  - first:
+      213: 5077849916141150093
+    second: sonic_sprite_sheet_fondo_transparente_100
+  - first:
+      213: 657774686570492653
+    second: sonic_sprite_sheet_fondo_transparente_101
+  - first:
+      213: -6385497917465875344
+    second: sonic_sprite_sheet_fondo_transparente_102
+  - first:
+      213: -7785418092288611362
+    second: sonic_sprite_sheet_fondo_transparente_103
+  - first:
+      213: 2893060656789849510
+    second: sonic_sprite_sheet_fondo_transparente_104
+  - first:
+      213: -472304038925086746
+    second: sonic_sprite_sheet_fondo_transparente_105
+  - first:
+      213: 7038750969078772416
+    second: sonic_sprite_sheet_fondo_transparente_106
+  - first:
+      213: 1743831476143491823
+    second: sonic_sprite_sheet_fondo_transparente_107
+  - first:
+      213: 4545683755546386484
+    second: sonic_sprite_sheet_fondo_transparente_108
+  - first:
+      213: 2381342522903891678
+    second: sonic_sprite_sheet_fondo_transparente_109
+  - first:
+      213: 5413563007314381921
+    second: sonic_sprite_sheet_fondo_transparente_110
+  - first:
+      213: 8914337120053134628
+    second: sonic_sprite_sheet_fondo_transparente_111
+  - first:
+      213: 1257143450761107408
+    second: sonic_sprite_sheet_fondo_transparente_112
+  - first:
+      213: 5349021038890608336
+    second: sonic_sprite_sheet_fondo_transparente_113
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_0
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1641
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe5d8221308bf440800000000000000
+      internalID: 4970707562254917306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_1
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1645
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1b1b1a788ffd7e0800000000000000
+      internalID: -1738397669724671526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1568
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b2f9af1a63f2420800000000000000
+      internalID: 2607362778593176416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_3
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1558
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7e7abdb9412e420800000000000000
+      internalID: 2657709389739714473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1558
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5590fb4db3036110800000000000000
+      internalID: 1252849232896890205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_5
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1558
+        width: 97
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86063160c0c4dda90800000000000000
+      internalID: -7287585007490342808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_6
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1603
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09d2c1db61853b90800000000000000
+      internalID: -7262756523984365299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_7
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1568
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32194a209154f8a60800000000000000
+      internalID: 7678431863410823459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_8
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1558
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf7b880b9632d520800000000000000
+      internalID: 2725300764003762106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_9
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1558
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a1cf4632493e310800000000000000
+      internalID: 1433151986172959250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_10
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1558
+        width: 98
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219789efc6362c440800000000000000
+      internalID: 4954631859839990034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_11
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1603
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60736799014467e0800000000000000
+      internalID: -1773220843826745236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_12
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1568
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6368611b1fc9ae0800000000000000
+      internalID: -1541091229578152231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_13
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1558
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030ad3f2ea6f863c0800000000000000
+      internalID: -4365968610758385616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_14
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1558
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b22c264ccd5d6bf0800000000000000
+      internalID: -329504065796169038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_15
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1558
+        width: 98
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d8f284202cb12e0800000000000000
+      internalID: -2153914681709851392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_16
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1603
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320cd5b00ce2e0eb0800000000000000
+      internalID: -4751809154470002653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_17
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1406
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6f1fe3205b34ca0800000000000000
+      internalID: -6033780054495725868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_18
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1416
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d21c5abe38bb80d0800000000000000
+      internalID: -3419436912503680296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_19
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1416
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5070b02dec438e920800000000000000
+      internalID: 3019721613043762949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_20
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1320
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679838e0328146200800000000000000
+      internalID: 172289224593344886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_21
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1310
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c240eb0ef53efbd0800000000000000
+      internalID: -2594576970081615160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_22
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1310
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3e8122ae3f870a0800000000000000
+      internalID: -6883483843515849738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_23
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1310
+        width: 98
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f43f1dc31dca4e00800000000000000
+      internalID: 1029860949737026808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_24
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1355
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efba8076b36824b80800000000000000
+      internalID: -8412013564284851202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_25
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1320
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48df4b45341cdb610800000000000000
+      internalID: 1638678334360845700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_26
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1310
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f863db7dab80ab6e0800000000000000
+      internalID: -1821133500741503345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_27
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1310
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a776dc7fa8634a0800000000000000
+      internalID: -6613946205839328637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_28
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1310
+        width: 98
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499fc68233cc0c840800000000000000
+      internalID: 5242414486352886164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_29
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1355
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00efcab04b11d750800000000000000
+      internalID: 6327868916258299918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_30
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1320
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97f6a09ad435e0b0800000000000000
+      internalID: -5700091640033118306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_31
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1310
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f7cdd96a80efe90800000000000000
+      internalID: -6990140059926364403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_32
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1310
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b559757fb1ee120800000000000000
+      internalID: 2444922396849036176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_33
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1310
+        width: 98
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3957dd0b4e53cd860800000000000000
+      internalID: 7555973531156968851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_34
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1355
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7eb87ec29fd72f0800000000000000
+      internalID: -973347973183576138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_35
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1072
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4886e893a16b25ce0800000000000000
+      internalID: -1417870708917245820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_36
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1062
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011fcbc03bef5fdf0800000000000000
+      internalID: -146931367853362928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_37
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1062
+        width: 142
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49fdbde4fdc376e0800000000000000
+      internalID: -1840901370820036278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_38
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1107
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee90ba17c4ce76f10800000000000000
+      internalID: 2263037150845667822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_39
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 979
+        width: 320
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78e81038401f23a0800000000000000
+      internalID: -6688109019391268740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_40
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 979
+        width: 320
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4ed950dbf5466d0800000000000000
+      internalID: -2998166186474216204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_41
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 731
+        width: 191
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae5200ea84477e80800000000000000
+      internalID: -8180994834840789336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_42
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 732
+        width: 164
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74a64a2a47970dd0800000000000000
+      internalID: -2519879121697856385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_43
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 783
+        width: 134
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a17db563ce7cd820800000000000000
+      internalID: 2944367634084098464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_44
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 732
+        width: 70
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8840d8e88240913c0800000000000000
+      internalID: -4388471789659028344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_45
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 746
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f916e9b4a05b2e0a0800000000000000
+      internalID: -6853716627081502305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_46
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 485
+        width: 320
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b065b6f1c620d7b0800000000000000
+      internalID: -5201614955103297355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_47
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 485
+        width: 320
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a94766d1228de50800000000000000
+      internalID: 6834249944203041437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_48
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 485
+        width: 320
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f615e0afcf23ae40800000000000000
+      internalID: 5666425324966319859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_49
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 237
+        width: 320
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f811f704b419aaa0800000000000000
+      internalID: -6149361052737791755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_50
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 237
+        width: 320
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d61f8380a483420800000000000000
+      internalID: 2609917383236742513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_51
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 237
+        width: 320
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3454774b804bbe00800000000000000
+      internalID: 1061513104119321660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_52
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 51
+        width: 242
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2301efc6b99b4f5f0800000000000000
+      internalID: -723749562900148174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_53
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 163
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d6ec52239648e90800000000000000
+      internalID: -7024373854687564469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_54
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 163
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9720742b6f4fe09c0800000000000000
+      internalID: -3958957682021956999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_55
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 137
+        width: 258
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec62fbc8eefec7dd0800000000000000
+      internalID: -2486849086372763954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_56
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 103
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f0ad931b1bbf570800000000000000
+      internalID: 8501584096329863007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_57
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 104
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e09b39f25b094a0800000000000000
+      internalID: -6588567038896566708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_58
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 124
+        width: 169
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3de66ee8670804e0800000000000000
+      internalID: -2015352685990580929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_59
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 87
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ac94076593c43c0800000000000000
+      internalID: -4374058094669739436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_60
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 87
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd6b380ec75cf640800000000000000
+      internalID: 5115059819199032824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_61
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 87
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e6593f09c89cf30800000000000000
+      internalID: 4596359448898137712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_62
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 95
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4803debf2b88c1010800000000000000
+      internalID: 1160953106266927236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_63
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 95
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6972e2cf2dc7d56a0800000000000000
+      internalID: -6458869044963563626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_64
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 49
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c79b4fd40f458d80800000000000000
+      internalID: -8249100260114458681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_65
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 49
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56dfe58d8bccfe2f0800000000000000
+      internalID: -941308702820991643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_66
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 49
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd29a58a23577080800000000000000
+      internalID: -9189785072530018872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_67
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 49
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80396eb1b8d4e930800000000000000
+      internalID: 4171697412767297674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_68
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 49
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2dedb6b93d4ae780800000000000000
+      internalID: -8653018823764611796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_69
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 49
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39638e1fdd2ffd110800000000000000
+      internalID: 1288015053511472787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_70
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 49
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b2efda036199d00800000000000000
+      internalID: 979838792263150469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_71
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 49
+        width: 37
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd0df87305c0bbf0800000000000000
+      internalID: -310531755583140414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_72
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 49
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71989b9ec30c6f590800000000000000
+      internalID: -7640708349935646441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_73
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 49
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6d378f5034d8600800000000000000
+      internalID: 472107228866008818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_74
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 49
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94a58997bec2bb50800000000000000
+      internalID: 6607570891255948443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_75
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 49
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d837d1132096a4150800000000000000
+      internalID: 5857609723483616141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_76
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 49
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7d5005907af2880800000000000000
+      internalID: -8633498302206847021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_77
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 49
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06d7f64eb0974ec0800000000000000
+      internalID: -3582735831641106933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_78
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 33
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88728f1e4018fb80800000000000000
+      internalID: -8360914780491188086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_79
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 33
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5e0503b2405c6f0800000000000000
+      internalID: -665120786426567169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_80
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 33
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80dcaf921e0977a0800000000000000
+      internalID: -6379051924042493810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_81
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 33
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fe9e40bc186f210800000000000000
+      internalID: 1366422245914308473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_82
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 33
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3d5717f94d6edc0800000000000000
+      internalID: -3609964270022437982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_83
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 33
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584ed30281020af30800000000000000
+      internalID: 4584699708655395973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_84
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 33
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5a883a0a1152330800000000000000
+      internalID: 3685371251708700147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_85
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 33
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0f40279997a8bf0800000000000000
+      internalID: -321310723453685576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_86
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 33
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f6568d6d1e21920800000000000000
+      internalID: 2959676218005614482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_87
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 33
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a049010442fae60800000000000000
+      internalID: 7975633322671082075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_88
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 33
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1a89701c7d2f7b0800000000000000
+      internalID: -5191850196348657167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_89
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 33
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8854030b1d9c64c90800000000000000
+      internalID: -7185834252981746296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_90
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 33
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529290d5544b0dd80800000000000000
+      internalID: -8227878309199271643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_91
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 33
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6630863145610f0800000000000000
+      internalID: -1146636612793047340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_92
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 33
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08948f1640e6cce30800000000000000
+      internalID: 4525112690703092096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_93
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 33
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f4d32226eb07ca0800000000000000
+      internalID: -6021103373103837340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_94
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 33
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd565f24b3a038700800000000000000
+      internalID: 541287629857318363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_95
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 33
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cfd2f4749cdf63e0800000000000000
+      internalID: -2058183974509682752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_96
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 16
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3dafba4e17f0f770800000000000000
+      internalID: 8642679394399137087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_97
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 16
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be22830c4110385f0800000000000000
+      internalID: -755759123832233237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_98
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 16
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad24063a445867a0800000000000000
+      internalID: -6383759794087121495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_99
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 16
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77c727b9da1d0030800000000000000
+      internalID: 3462453210900842365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_100
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 16
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f175a5895287640800000000000000
+      internalID: 5077849916141150093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_101
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de23747a792e02900800000000000000
+      internalID: 657774686570492653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_102
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 16
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c2373d9772267a0800000000000000
+      internalID: -6385497917465875344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_103
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbec357e73a4f390800000000000000
+      internalID: -7785418092288611362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_104
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 16
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a50e99d657362820800000000000000
+      internalID: 2893060656789849510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_105
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef43ed9af90279f0800000000000000
+      internalID: -472304038925086746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_106
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 16
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c27066a6baaea160800000000000000
+      internalID: 7038750969078772416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_107
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 16
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea8da30d75533810800000000000000
+      internalID: 1743831476143491823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_108
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 16
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4302b96aa43851f30800000000000000
+      internalID: 4545683755546386484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_109
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 16
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede083e586a3c0120800000000000000
+      internalID: 2381342522903891678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_110
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c4b247fd6d02b40800000000000000
+      internalID: 5413563007314381921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_111
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 16
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42588d8616616bb70800000000000000
+      internalID: 8914337120053134628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_112
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7135ece45427110800000000000000
+      internalID: 1257143450761107408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_sprite_sheet_fondo_transparente_113
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d66a276b4a8b3a40800000000000000
+      internalID: 5349021038890608336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sonic_sprite_sheet_fondo_transparente_0: 4970707562254917306
+      sonic_sprite_sheet_fondo_transparente_1: -1738397669724671526
+      sonic_sprite_sheet_fondo_transparente_10: 4954631859839990034
+      sonic_sprite_sheet_fondo_transparente_100: 5077849916141150093
+      sonic_sprite_sheet_fondo_transparente_101: 657774686570492653
+      sonic_sprite_sheet_fondo_transparente_102: -6385497917465875344
+      sonic_sprite_sheet_fondo_transparente_103: -7785418092288611362
+      sonic_sprite_sheet_fondo_transparente_104: 2893060656789849510
+      sonic_sprite_sheet_fondo_transparente_105: -472304038925086746
+      sonic_sprite_sheet_fondo_transparente_106: 7038750969078772416
+      sonic_sprite_sheet_fondo_transparente_107: 1743831476143491823
+      sonic_sprite_sheet_fondo_transparente_108: 4545683755546386484
+      sonic_sprite_sheet_fondo_transparente_109: 2381342522903891678
+      sonic_sprite_sheet_fondo_transparente_11: -1773220843826745236
+      sonic_sprite_sheet_fondo_transparente_110: 5413563007314381921
+      sonic_sprite_sheet_fondo_transparente_111: 8914337120053134628
+      sonic_sprite_sheet_fondo_transparente_112: 1257143450761107408
+      sonic_sprite_sheet_fondo_transparente_113: 5349021038890608336
+      sonic_sprite_sheet_fondo_transparente_12: -1541091229578152231
+      sonic_sprite_sheet_fondo_transparente_13: -4365968610758385616
+      sonic_sprite_sheet_fondo_transparente_14: -329504065796169038
+      sonic_sprite_sheet_fondo_transparente_15: -2153914681709851392
+      sonic_sprite_sheet_fondo_transparente_16: -4751809154470002653
+      sonic_sprite_sheet_fondo_transparente_17: -6033780054495725868
+      sonic_sprite_sheet_fondo_transparente_18: -3419436912503680296
+      sonic_sprite_sheet_fondo_transparente_19: 3019721613043762949
+      sonic_sprite_sheet_fondo_transparente_2: 2607362778593176416
+      sonic_sprite_sheet_fondo_transparente_20: 172289224593344886
+      sonic_sprite_sheet_fondo_transparente_21: -2594576970081615160
+      sonic_sprite_sheet_fondo_transparente_22: -6883483843515849738
+      sonic_sprite_sheet_fondo_transparente_23: 1029860949737026808
+      sonic_sprite_sheet_fondo_transparente_24: -8412013564284851202
+      sonic_sprite_sheet_fondo_transparente_25: 1638678334360845700
+      sonic_sprite_sheet_fondo_transparente_26: -1821133500741503345
+      sonic_sprite_sheet_fondo_transparente_27: -6613946205839328637
+      sonic_sprite_sheet_fondo_transparente_28: 5242414486352886164
+      sonic_sprite_sheet_fondo_transparente_29: 6327868916258299918
+      sonic_sprite_sheet_fondo_transparente_3: 2657709389739714473
+      sonic_sprite_sheet_fondo_transparente_30: -5700091640033118306
+      sonic_sprite_sheet_fondo_transparente_31: -6990140059926364403
+      sonic_sprite_sheet_fondo_transparente_32: 2444922396849036176
+      sonic_sprite_sheet_fondo_transparente_33: 7555973531156968851
+      sonic_sprite_sheet_fondo_transparente_34: -973347973183576138
+      sonic_sprite_sheet_fondo_transparente_35: -1417870708917245820
+      sonic_sprite_sheet_fondo_transparente_36: -146931367853362928
+      sonic_sprite_sheet_fondo_transparente_37: -1840901370820036278
+      sonic_sprite_sheet_fondo_transparente_38: 2263037150845667822
+      sonic_sprite_sheet_fondo_transparente_39: -6688109019391268740
+      sonic_sprite_sheet_fondo_transparente_4: 1252849232896890205
+      sonic_sprite_sheet_fondo_transparente_40: -2998166186474216204
+      sonic_sprite_sheet_fondo_transparente_41: -8180994834840789336
+      sonic_sprite_sheet_fondo_transparente_42: -2519879121697856385
+      sonic_sprite_sheet_fondo_transparente_43: 2944367634084098464
+      sonic_sprite_sheet_fondo_transparente_44: -4388471789659028344
+      sonic_sprite_sheet_fondo_transparente_45: -6853716627081502305
+      sonic_sprite_sheet_fondo_transparente_46: -5201614955103297355
+      sonic_sprite_sheet_fondo_transparente_47: 6834249944203041437
+      sonic_sprite_sheet_fondo_transparente_48: 5666425324966319859
+      sonic_sprite_sheet_fondo_transparente_49: -6149361052737791755
+      sonic_sprite_sheet_fondo_transparente_5: -7287585007490342808
+      sonic_sprite_sheet_fondo_transparente_50: 2609917383236742513
+      sonic_sprite_sheet_fondo_transparente_51: 1061513104119321660
+      sonic_sprite_sheet_fondo_transparente_52: -723749562900148174
+      sonic_sprite_sheet_fondo_transparente_53: -7024373854687564469
+      sonic_sprite_sheet_fondo_transparente_54: -3958957682021956999
+      sonic_sprite_sheet_fondo_transparente_55: -2486849086372763954
+      sonic_sprite_sheet_fondo_transparente_56: 8501584096329863007
+      sonic_sprite_sheet_fondo_transparente_57: -6588567038896566708
+      sonic_sprite_sheet_fondo_transparente_58: -2015352685990580929
+      sonic_sprite_sheet_fondo_transparente_59: -4374058094669739436
+      sonic_sprite_sheet_fondo_transparente_6: -7262756523984365299
+      sonic_sprite_sheet_fondo_transparente_60: 5115059819199032824
+      sonic_sprite_sheet_fondo_transparente_61: 4596359448898137712
+      sonic_sprite_sheet_fondo_transparente_62: 1160953106266927236
+      sonic_sprite_sheet_fondo_transparente_63: -6458869044963563626
+      sonic_sprite_sheet_fondo_transparente_64: -8249100260114458681
+      sonic_sprite_sheet_fondo_transparente_65: -941308702820991643
+      sonic_sprite_sheet_fondo_transparente_66: -9189785072530018872
+      sonic_sprite_sheet_fondo_transparente_67: 4171697412767297674
+      sonic_sprite_sheet_fondo_transparente_68: -8653018823764611796
+      sonic_sprite_sheet_fondo_transparente_69: 1288015053511472787
+      sonic_sprite_sheet_fondo_transparente_7: 7678431863410823459
+      sonic_sprite_sheet_fondo_transparente_70: 979838792263150469
+      sonic_sprite_sheet_fondo_transparente_71: -310531755583140414
+      sonic_sprite_sheet_fondo_transparente_72: -7640708349935646441
+      sonic_sprite_sheet_fondo_transparente_73: 472107228866008818
+      sonic_sprite_sheet_fondo_transparente_74: 6607570891255948443
+      sonic_sprite_sheet_fondo_transparente_75: 5857609723483616141
+      sonic_sprite_sheet_fondo_transparente_76: -8633498302206847021
+      sonic_sprite_sheet_fondo_transparente_77: -3582735831641106933
+      sonic_sprite_sheet_fondo_transparente_78: -8360914780491188086
+      sonic_sprite_sheet_fondo_transparente_79: -665120786426567169
+      sonic_sprite_sheet_fondo_transparente_8: 2725300764003762106
+      sonic_sprite_sheet_fondo_transparente_80: -6379051924042493810
+      sonic_sprite_sheet_fondo_transparente_81: 1366422245914308473
+      sonic_sprite_sheet_fondo_transparente_82: -3609964270022437982
+      sonic_sprite_sheet_fondo_transparente_83: 4584699708655395973
+      sonic_sprite_sheet_fondo_transparente_84: 3685371251708700147
+      sonic_sprite_sheet_fondo_transparente_85: -321310723453685576
+      sonic_sprite_sheet_fondo_transparente_86: 2959676218005614482
+      sonic_sprite_sheet_fondo_transparente_87: 7975633322671082075
+      sonic_sprite_sheet_fondo_transparente_88: -5191850196348657167
+      sonic_sprite_sheet_fondo_transparente_89: -7185834252981746296
+      sonic_sprite_sheet_fondo_transparente_9: 1433151986172959250
+      sonic_sprite_sheet_fondo_transparente_90: -8227878309199271643
+      sonic_sprite_sheet_fondo_transparente_91: -1146636612793047340
+      sonic_sprite_sheet_fondo_transparente_92: 4525112690703092096
+      sonic_sprite_sheet_fondo_transparente_93: -6021103373103837340
+      sonic_sprite_sheet_fondo_transparente_94: 541287629857318363
+      sonic_sprite_sheet_fondo_transparente_95: -2058183974509682752
+      sonic_sprite_sheet_fondo_transparente_96: 8642679394399137087
+      sonic_sprite_sheet_fondo_transparente_97: -755759123832233237
+      sonic_sprite_sheet_fondo_transparente_98: -6383759794087121495
+      sonic_sprite_sheet_fondo_transparente_99: 3462453210900842365
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
